@@ -1,0 +1,106 @@
+* {
+  font-family: "Roboto Mono", monospace;
+}
+
+body {
+  margin: 0;
+}
+
+p {
+  display: inline-block;
+}
+.container {
+  margin: 0 10px;
+  padding: 10px 0;
+}
+
+img {
+  width: 40%;
+}
+
+.nav-css a {
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  color: white;
+  margin: 0 7rem;
+  padding: 0.9rem;
+}
+
+.planning-a {
+  background-color: #ff764e;
+}
+
+.info-a {
+  background-color: #5ed3eb;
+}
+
+.comp-a {
+  background-color: #ffcd69;
+}
+
+.header-content {
+  margin: 1rem 3rem;
+}
+
+header .header-content img {
+  border-radius: 100%;
+  width: 10rem;
+  height: 10rem;
+  float: left;
+  margin-left: 3rem;
+}
+
+header .header-content div {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Chelsea Market", cursive;
+  font-weight: bold;
+}
+
+.info-section {
+  background-color: #ddb9a3;
+  color: white;
+  padding: 0 2px;
+  width: 90%;
+  margin: 0 3.5rem;
+  text-align: center;
+}
+
+.info-section p {
+  margin: 0;
+}
+
+main {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+main img {
+  width: 7rem;
+}
+
+main div p {
+  text-align: center;
+  width: 20%;
+  margin-right: 0;
+  margin-top: 0;
+}
+
+.main-div-2 {
+  margin-top: 2rem;
+}
+
+footer {
+  background-color: #f9e7dc;
+}
+
+footer img {
+  height: 25vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
+}
